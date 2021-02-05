@@ -1,7 +1,7 @@
-![Welcome](https://github.com/F-Gabriel-Braga/F-Gabriel-Braga/blob/main/imagens/welcome.png)
+![Welcome](https://github.com/F-Gabriel-Braga/F-Gabriel-Braga/blob/main/imagens/welcome-animation.gif)
 Muito prazer, meu nome é Gabriel Braga.
 
-:books: Sou estudante de Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br).
+:books: Estudante de Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br).
 
 :man_technologist: Desenvolvedor Java.
 
