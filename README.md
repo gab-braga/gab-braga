@@ -1,8 +1,8 @@
-<h1 align=center>Muito prazer, meu nome é Gabriel Braga.</h1>
+<h1 align=center>Muito prazer, meu nome é Gabriel Braga. :smiley:</h1> 
 
 ![Welcome](https://github.com/F-Gabriel-Braga/F-Gabriel-Braga/blob/main/imagens/welcome-animation.gif)
 
-### *"O sucesso é a soma de pequenos esforços repetidos dia após dia"*. :grin:
+### *"O sucesso é a soma de pequenos esforços repetidos dia após dia"* :grin:
 
 ## Sobre mim
 * :books: Estudante de Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br);
@@ -10,17 +10,17 @@
 * :man_technologist: Desenvolvedor Java full stack.
 
 ## Habilidades
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=black&link=https://github.com/F-Gabriel-Braga)
-![MySQL](https://img.shields.io/badge/MySQL-lightgray?style=for-the-badge&logo=mysql&logoColor=white&link=#)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS%203-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white)
-![C](https://img.shields.io/badge/C-lightgray?style=for-the-badge&logo=c&logoColor=white)](https://github.com/F-Gabriel-Braga)
+![C](https://img.shields.io/badge/C-lightgray?style=for-the-badge&logo=c&logoColor=white)
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-braga-75ab121b0/)
-[![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_Gabriel_Bra/)
+[![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_Gabriel_Bra/)
 ![Email](https://img.shields.io/badge/-braagaa.inf@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
 ![Grafico](https://github-readme-stats.vercel.app/api?username=F-Gabriel-Braga&show_icons=true&theme=great-gatsby&custom_title=Gabriel%20Braga%20GitHub%20status)
