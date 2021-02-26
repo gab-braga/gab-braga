@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/C-lightgray?style=for-the-badge&logo=c&logoColor=white)
 
 ## Contatos
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-braga-75ab121b0/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/f-gabriel-braga/)
 [![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_Gabriel_Bra/)
 ![Email](https://img.shields.io/badge/-braagaa.inf@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
