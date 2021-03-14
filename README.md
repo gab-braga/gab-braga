@@ -1,6 +1,4 @@
-<h1 align=center>Muito prazer, meu nome é Gabriel Braga. :smiley:</h1> 
-
-![Welcome](https://github.com/F-Gabriel-Braga/F-Gabriel-Braga/blob/main/imagens/welcome-animation.gif)
+<h1 align=center>Muito prazer, meu nome é Gabriel Braga :smiley:</h1>
 
 ### *"O sucesso é a soma de pequenos esforços repetidos dia após dia"* :grin:
 
