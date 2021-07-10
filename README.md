@@ -21,4 +21,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_Gabriel_Bra/)
 ![Email](https://img.shields.io/badge/-braagaa.inf@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
-![Grafico](https://github-readme-stats.vercel.app/api?username=F-Gabriel-Braga&show_icons=true&theme=great-gatsby&custom_title=Gabriel%20Braga%20GitHub%20status)
+# ![Status](https://github-readme-stats.vercel.app/api?username=F-Gabriel-Braga&show_icons=true&theme=great-gatsby&custom_title=Gabriel%20Braga%20GitHub%20status)
+# ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Gabriel-Braga&layout=compact&theme=great-gatsby&custom_title=Linguagens%20mais%20usadas)
