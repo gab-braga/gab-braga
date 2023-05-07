@@ -5,7 +5,7 @@
 ## Sobre mim
 * :books: Estudante de Ciência da Computação pelo [Instituto Federal do Ceará](https://ifce.edu.br);
 * :mortar_board: Técnico em Informática pela [EEEP Deputado José Maria Melo](http://eeepdepjosemariamelo.blogspot.com/);
-* :man_technologist: Desenvolvedor Java Full Stack.
+* :man_technologist: Desenvolvedor Full Stack.
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
@@ -17,11 +17,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node.js&logoColor=green)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue)
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/f-gabriel-braga/)
 [![Instagram](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_Gabriel_Bra/)
-![Email](https://img.shields.io/badge/-braagaa.inf@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
+![Email](https://img.shields.io/badge/-gabrielbraga0712@gmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
 # ![Status](https://github-readme-stats.vercel.app/api?username=F-Gabriel-Braga&show_icons=true&theme=great-gatsby&custom_title=Gabriel%20Braga%20GitHub%20status)
 # ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Gabriel-Braga&layout=compact&theme=great-gatsby&custom_title=Linguagens%20mais%20usadas)
