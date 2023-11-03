@@ -1,6 +1,9 @@
-<h1 align=center>Muito prazer, meu nome é Gabriel Braga :sunglasses:</h1>
+# Muito prazer, meu nome é Gabriel Braga :sunglasses:
 
-### Sou professor/instrutor de desenvolvimento web, compartilhando meus conhecimentos e ajudando outras pessoas a aprenderem e se destacarem na área. Com habilidades sólidas em desenvolvimento full stack, estou sempre em busca de desafios estimulantes para expandir meu conjunto de habilidades e contribuir para projetos inovadores. Focado, busco novos conhecimentos diariamente.
+Sou professor/instrutor de desenvolvimento web, compartilhando meus conhecimentos e ajudando outras
+pessoas a aprenderem e se destacarem na área. Com habilidades sólidas em desenvolvimento full stack,
+estou sempre em busca de desafios estimulantes para expandir meu conjunto de habilidades e contribuir
+para projetos inovadores. Focado, busco novos conhecimentos diariamente.
 
 ## Sobre mim
 * :bowling: Professor/Instrutor de desenvolvimento full stack com Java, Node.js, Angular, React.
