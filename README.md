@@ -42,6 +42,6 @@ No meu site, você encontrará meu portfólio repleto de trabalhos que refletem 
 ![Email](https://img.shields.io/badge/-gabrielbraga.me@gmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
 ## Insights
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=f-gabriel-braga&layout=donut&custom_title=Linguagens%20mais%20usadas&theme=dark#gh-dark-mode-only)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-braga&layout=donut&custom_title=Linguagens%20mais%20usadas&theme=dark#gh-dark-mode-only)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=f-gabriel-braga&rank_icon=github&custom_title=Estatísticas%20do%20GitHub&theme=dark#gh-dark-mode-only)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gab-braga&rank_icon=github&custom_title=Estatísticas%20do%20GitHub&theme=dark#gh-dark-mode-only)
