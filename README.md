@@ -1,9 +1,11 @@
 # Muito prazer, meu nome é Gabriel Braga :sunglasses:
 
-Sou professor/instrutor de desenvolvimento web, compartilhando meus conhecimentos e ajudando outras
-pessoas a aprenderem e se destacarem na área. Com habilidades sólidas em desenvolvimento full stack,
-estou sempre em busca de desafios estimulantes para expandir meu conjunto de habilidades e contribuir
-para projetos inovadores. Focado, busco novos conhecimentos diariamente.
+Desenvolvedor Full Stack e Instrutor de Tecnologia com experiência significativa em React.js,
+Angular, Node.js e Spring.
+
+Profundo entendimento do ciclo de vida do desenvolvimento de software,
+desde a concepção até a entrega. Atualmente, atuo como professor/instrutor de tecnologia,
+compartilhando meu conhecimento e aprimorando minhas habilidades.
 
 ## Sobre mim
 * :bowling: Professor/Instrutor de programação e computação em nuvem.
@@ -15,25 +17,13 @@ para projetos inovadores. Focado, busco novos conhecimentos diariamente.
 No meu site, você encontrará meu portfólio repleto de trabalhos que refletem minha dedicação e habilidades. Além disso, no meu blog, escrevo pequenos artigos sobre tópicos que me fascinam, compartilhando insights, dicas e conhecimento. Clique no link abaixo para visitar meu site e explorar tudo que preparei com muito carinho.
 [https://gab-braga.github.io/site](https://gab-braga.github.io/site)
 
+## Certificações
+* [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/FrGabrielBraga/9234D97BC58C4695?sharingId=E27704F5D47E3F92)
+* [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/FrGabrielBraga/E704822742D98049?sharingId=E27704F5D47E3F92)
+* [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/FrGabrielBraga/3F20AB64D36469AB?sharingId=E27704F5D47E3F92)
+
 ## Habilidades
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=blue)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-darkgreen?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS%203-blue?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=azure,java,js,ts,python,mysql,spring,hibernate,react,firebase,mongo,nodejs,angular,bootstrap,tailwind,git,github,html,css,vscode&perline=5)](https://skillicons.dev)
 
 ## Contatos
 :e-mail: Precisa de ajuda ou tem alguma dúvida? Entre em contato, ficarei feliz em ajudar.
