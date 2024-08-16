@@ -5,8 +5,7 @@ compartilhando meu conhecimento e aprimorando minhas habilidades.
 
 ## :warning: Sobre mim
 * Professor de Desenvolvimento Full Stack
-* Desenvolvedor Full Stack
-* Estudante de Ciência da Computação
+* Graduando em Ciência da Computação
 * Técnico em Informática
 
 ## :page_facing_up: Certificações
